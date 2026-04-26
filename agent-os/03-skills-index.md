@@ -8,6 +8,7 @@ Skills are reusable workflows. They should have a clear trigger, inputs, and out
 - `skills/project-triage.md`: assess project status and identify the next move.
 - `skills/write-as-elizabeth.md`: draft or revise in Elizabeth's voice.
 - `skills/spec-before-build.md`: turn an idea into a buildable spec before coding.
+- `skills/grading.md`: help grade student work with a rubric, consistent feedback, and reduced friction.
 
 ## Skill Rule
 
